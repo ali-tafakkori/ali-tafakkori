@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.dev/ali-tafakkori/ali-tafakkori/images/coding.gif"  />
+  <img height="150" src="https://github.com/ali-tafakkori/ali-tafakkori/blob/main/images/coding.gif"  />
 </div>
 
 ###
